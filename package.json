@@ -1,6 +1,6 @@
 {
   "name": "@amanv685/ai-guard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provider-agnostic AI usage guard with coin budgets, token/image limits, and task-scoped responses",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -40,9 +40,13 @@
     "ai-coins"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/amanverma685/ai-guard#readme",
+  "bugs": {
+    "url": "https://github.com/amanverma685/ai-guard/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/ai-guard"
+    "url": "git+https://github.com/amanverma685/ai-guard.git"
   },
   "dependencies": {
     "zod": "^3.24.2"

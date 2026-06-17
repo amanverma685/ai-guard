@@ -2,3 +2,6 @@ node_modules/
 dist/
 *.log
 .DS_Store
+.env
+npm_recovery_codes.txt
+*.recovery_codes.txt
